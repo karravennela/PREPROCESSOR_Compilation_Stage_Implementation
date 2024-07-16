@@ -7,3 +7,5 @@ Created a executable file named "preprocessor" from different modules like main.
    - both single line and multi line comments
 2. Replace macros
 3. Include headerfile content
+# Test file
+abc.c is the input .c file and abc.i is the output .i file with the above three tasks performed on it.
